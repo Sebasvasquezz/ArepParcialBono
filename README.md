@@ -68,7 +68,6 @@ Download the project from [the repository.](https://github.com/Sebasvasquezz/Are
 
     & 'C:\Program Files\Java\jdk-1.8\bin\java.exe' '-cp' 'C:\Users\juan.vasquez-v.LABINFO\Desktop\bono\target\classes' 'edu.escuelaing.arep.CalcReflexBEServer
     ```
-
    When you run the application, you should see the following:
     ![Execution CalcReflexBEServer](images/execution2.png)
 
